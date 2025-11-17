@@ -37,4 +37,5 @@ This dashboard provides a comprehensive monthly overview of emergency room opera
 - **Visual Design**: Clean layout with bar charts, pie charts, and heatmaps for intuitive analysis
 Based on the image provided, here is the extracted text:
 
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/SrivastavaAnkit9708/Hospital-Emergency-Dashboard/edit/main/README.md)
